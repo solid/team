@@ -1,0 +1,115 @@
+# Solid Project: Solid Team
+
+* Date: 2023-05-03T15:00:00Z
+* Call: https://meet.jit.si/solid-team
+* Chat: https://gitter.com/solid/team
+* Repository: https://github.com/solid/team
+
+
+## Present
+* Alain Bourgeois
+* Osmar Olivo
+* Jeff
+* Timbl
+
+---
+
+## Announcements
+
+### Meeting Recordings and Transcripts
+* No audio or video recording, or automated transcripts without consent. Meetings are transcribed and made public. If consent is withheld by anyone, recording/retention must not occur.
+* Join queue to talk.
+
+
+### Participation and Code of Conduct
+* [Solid Code of Conduct](https://github.com/solid/process/blob/main/code-of-conduct.md), [Positive Work Environment at W3C: Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/)
+* Operating principle for effective participation is to allow access across disabilities, across country borders, and across time. Feedback on tooling and meeting timing is welcome.
+* If this is your first time, welcome! please introduce yourself.
+
+
+### Scribes
+* Jackson
+
+
+### Introductions
+* name: text
+
+---
+
+## Web Foundation Relationship
+ - TimBL: At the high level there's a proposal that the Solid Team and Solid Organization should be on the light side when it comes to institutional structure. We have wondered about the web foundation adopting Solid as a project and the incorporated body of the web foundation would be used. Hadian, Timea, and I discussed this with the founder of the web foundation. If all the ducks line up we could take this movement and make it projct of a Solid Project in the web foundation. The web foundation's mission is to "server humanity," so it's very broad, so it's reasonable for us to rethink that a bit. And that would mean if we get that organized we could mean there would be something that could have a bank account and write checks.
+ - JM: What's the timeline?
+ - TimBL: It would be in the order of weeks
+ - TimBL: The goal would be to preserve all the motivations we have putting together the structure, if they had, for example someone working on communications, then they would take on Solid communications, but in general, most of the structure in Solid are things the Solid team loosely coordinates like the website and solidcommunity.net
+ - Oz: I feel like we're jumping the gun a little bit. This could be a massive undertaking if we wanted to do it. The Web Foundation has a board and an existing structure. I don't think it's a vote kind of thing. We need to have a big discussion of what it means. This would mean a meger of the Solid team.
+ - TimBL: The employees of the web foundation are working on projects about internet access. That's been the main project, but understanding how a github organization gets supported by a non-profit like the web foundation. And we don't know that the web foundation board will accept it.
+ - Oz: This has implications for everything else we discussed. If the web foundation has its own OPs team and its own funding.
+ - VOTE: Should we explore a some relationship with the web foundation?
+     - Jackson: +1
+     - Jeff: +1
+     - Timbl: +1
+     - Osmar +1
+     - Alain: +1
+
+## Topics
+
+### Proposal: Organize Solid World
+URL: https://github.com/solid/team/issues/35#issuecomment-1506072872
+
+ - Oz: Hadrian is picking up all communications at the behest of Kelly.
+ - Oz: Without Kelly of Hadrian here. I can't speak more about the closedness and openness of the process.
+ - Sarven: I discented to this plan.
+ - Oz: We need Hadrian to discuss this.
+ - Sarven: Hadrian is not a member of the Solid team. The members of the Solid team should discuss this.
+ - Oz: Kelly is a member of the Solid team and he is on Paternity leave. He has delegated his duties to Hadrian.
+ - Sarven: But, Hadrian is not a member of the Solid team. For the minutes we shouldn't include an action that includes Hadrian.
+ - Jeff: I think this should include him because we have the intention of adding him to the team.
+ - Sarven: I'm raising an objection to including Hadrian in any action because he's not a member of the Solid team.
+ - Virginia: The process to add hadrian for the team is pending Hadrian making a PR to join. The problem is that this process is in theory organized by the Solid team, but in practice is not.
+ - Sarven: The main question is "is this in scope of the Solid team," and that is a discussion for those who are in the Solid meeting. That does not depend on Kelly or Hadrian. Once we determine that, we can talk about who is appropriate to run Solid world if it is in Scope.
+ - Oz: To talk about this we have to go back to the beginning of Solid world. The Beginning of Solid World was Marelle, Ruben, Kelly, myself organizing an event along with this month in Solid. Over time, that has devolved into just Kelly. Originally this was a Solid Team event hosted by Tim and Marrelle and over time it fell squarely on Kelly's shoulders.
+ - Sarven: Given the history of Solid World, I think it shouldn't be in the scope of the Solid team. We've had a number of meetings in the past about the openness of Solid World. It is not transparent about who submits to presenting. How that's decided and how it's announced. There are a number of things that are not run by the Solid team. There's nothing on record. There's no issue or documentation submitted to the Solid community that says how we eneded up there. So, until the track record of the Solid world improves independently, it does not fit the Solid team. I understand that there are people in the Solid team that are working on it, but there are not decisions made. The people who are speaking at Solid world are giving the impression that they're speaking on behalf of the Solid team, but they've never shown up to the meetings, so that's a complete violation.
+ - Jeff: Thank you. Those are all excellent points. To me, I think that saying "Solid world is under the scope of this team, and therefore should abide by transparent methods" is a way to make it more transparent. If they are not operating transparently, then we can change that.
+ - Virginia: I agree. We've raised this in the past it's how the whole discussion started. And the conclusion was that we as a team didn't have the bandwidth to take care of that process ourselves. It currently looks like it is organized by the Solid Team (it is under the Solid Project eventbrite account, etc), but it is not in practice. If it's not in practice, then it shouldn't be listed as under the Solid team. In the same way, if we cannot take on the task of organizing events or enforcing the code of conduct, then we don't have the bandwidth to work on it.
+ - Sarven: I think the code of conduct is important to enforce. To Jeff's point that it would be improving how to make the event more open. But, to Oz's point that Hadrian has been involved in the event, but there's nothing on record.
+ - Oz: There are two things to separate: 1 is the transparency thing, 2 is has the Solid team been involved in this. I think the answer to 2 is yes because i remember people volunteering to host the event. Eventually the volunteers drifted off to doing other things. Ultimately, it went off the rails, but I'll stress that it was run by us. We have to have a discussion that as a team do we want to do this. I think it is run by us. So there's that discussion (are we serious about running this or are we not). On the second topic (openness and transparency). There are certain things like the spec, and events management might not be one. This is the challenge. I would caution against too much transparency there. If we did that then you'd have to have unneccissary conversations like "your presentation didn't make the cut."
+ - Jeff: Regardless of who's running it, ultimately this team needs to be aware of how it's being run. If the Solid team is not responsible for Solid World, then Solid world does not fall under the code of conduct. And that's a problem.
+ - Sarven: +1 to Jeff. Can we have 1% of openness and transparency. If Kelly thought that he needed to delegate his responsibilities, the point of contact on that is the Solid Team, not Inrupt. It's not about blaming Kelly. If Hadrian has been doing this for several Solid Worlds. They're not part of the SOlid team or even the Solid community group. And there's a number of people who've been working through Inrupt who haven't signed up for the community group. People who are not following the process going off and doing things is completely off the rails, and to fix that, stop talking about other groups.
+ - Jackson: says stuff
+ - Oz: I that's a good way to move forward, but we need to Pull Tim into the conversation.
+ - Virginia: I was going to mention that this was discussed previously and Tim said that he would prefer that this event should be run by the Solid team. I think that we need to keep in mind that when we're talking about transparency we're talking about in the context of this team. I think that the mistake with the sub-team into 
+ - Oz: There are a few follow-up discussion topics. I think we're being more closed than I like.
+ - Virginia: I think Sarven's suggestion was particular to Hadrian and we're not limiting who's allowed to be a volunteer. How can we have a way to have people help us with this stuff without having them jump through the hoops of coming to meetings and joinging the team.
+ - Sarven: I expect people to be accessible on some level.
+ - Oz: I think we agreed to have a Solid Ops email address and have that go to the appropriate people. We can think about the logistics of it all. There are plenty of people who want to help with events but don't want to be a part of the Solid team. I do want to be inclusive.
+ - Jeff: I think that we could just vote on A.
+ - Sarven: I think taking the proposal option is the appropriate way of approaching this. If that's clear and we agree, that would be a good way of going forward. If SOlid World wishes to continue the way it does, it doesn't represent the team or the Solid community. It needs to clear that it doesn't represent the community in any shape or form.
+ - VOTE: a) Propose a process that improves the transparency of Solid World (Jackson Volunteers to propose a process)
+ - 
+ 
+
+### Proposal: Organize or Fascilitate the organization of In-Person Solid Meetups
+URL: https://github.com/solid/team/issues/35#issuecomment-1506072994
+
+ - Oz: I don't think we should do this. Not because I don't think it should happen, but because I don't think it's within our power.
+ - Jeff: I think it's important for there to be an open source resource for people who want to get involved in Solid. We need to be doing things that Inrupt can't do like focus on socially beneficial projects. Things like having meetups, hackathons, mentorships is something that should be a long term goal of this team.
+ - Oz: The reason I disagree slightly is becasue these communities are already happening. There's things like the manchester meetup, and meetings in Sweden. I think a centralized community model is worrying for me. I'm much more comfortable with a federated community model and the people locally with the communities are organizing them. I'm happy to facilitate them, but do we believe that the Solid team is responsible for organizing and bootstrapping these communities.
+ - Timbl: We fascilitate the organization, and we should certainly encourage them. The only important thing for us is to track them. The listing of events is a benefit.
+ - Jeff: Here's a concrete example of why it's important for us to get involved with this: the director a a Solid homelessness project would really like his team to be able to talk with other teams working on Solid. He'd like a symposium for people to discuss things like working on governments. Individuals aren't able to organize larger events. That's the kind of thing I think we should be able to do.
+ - Sarven: 
+
+### Proposal: Upgrade SolidCommunity.net to CSS
+URL: https://github.com/solid/team/issues/35#issuecomment-1506073112
+
+### Proposal: Update/Create a better experience for newcomers
+URL: https://github.com/solid/team/issues/35#issuecomment-1506073211
+
+### Proposal : develop stronger diversity outreach
+URL: https://github.com/solid/team/issues/35#issuecomment-1506089824
+
+### Proposal: Content Pass on SolidProject.org
+URL: https://github.com/solid/team/issues/35#issuecomment-1508810299
+
+
+
+
