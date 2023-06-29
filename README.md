@@ -1,1 +1,16 @@
-# team
+# Solid Team
+
+This repository contains organisational work of the Solid Team to meet the needs of the [Solid Project](https://solidproject.org/).
+
+## Participation
+
+All substantive contributors must be members of the Solid Team. It’s easy to [join the Solid Team](https://github.com/solid/process) if you’d like to contribute with any role.
+
+The Solid Team has a (member-only) [chat](https://gitter.im/solid/team).
+
+Every second Wednesday of the month, 16:00 UTC at https://meet.jit.si/solid-team . Meetings are transcribed and [published](https://github.com/solid/team/tree/main/meetings/).
+
+## Code of Conduct
+
+All work and communication within the Solid Team is covered by the [Solid Code of Conduct](https://github.com/solid/process/blob/main/code-of-conduct.md).
+
