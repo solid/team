@@ -1,6 +1,6 @@
 # Solid Team
 
-This repository contains organisational work of the Solid Team to meet the needs of the [Solid Project](https://solidproject.org/).
+The Solid Team, headed by Sir Tim Berners-Lee, provides an organisational umbrella for facilitating a strong open source community in support of Solid. This repository contains work of the Solid Team to meet the needs of the [Solid Project](https://solidproject.org/).
 
 ## Participation
 
