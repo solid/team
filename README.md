@@ -9,7 +9,7 @@ All substantive contributors must be members of the Solid Team. It’s easy to [
 
 The Solid Team has a (member-only) [chat](https://gitter.im/solid/team).
 
-The Solid Team holds meetings at https://meet.jit.si/solid-team on every second Wednesday of the month at 16:00 UTC. Meetings are transcribed and [published](https://github.com/solid/team/tree/main/meetings/).
+The Solid Team holds meetings at https://meet.jit.si/solid-team on every second Wednesday of the month at 16:00 UTC. Meetings are transcribed and [published](https://github.com/solid/team/tree/main/meetings/). Additional team meetings may be created, in which case Solid Team members will be notified via calendar invitation and in the Solid Team chat.
 
 
 ## Code of Conduct
