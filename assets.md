@@ -6,7 +6,7 @@
 | Accout  | Link                                                                   | Administrators |
 | ------- | ---------------------------------------------------------------------- | -------------- |
 | X       | [https://twitter.com/project_solid](https://twitter.com/project_solid) | Kelly O'Brien  |
-| Reddit  | [https://www.reddit.com/r/SOLID/](https://www.reddit.com/r/SOLID/)     | [Melvin et al.](https://www.reddit.com/r/SOLID/about/moderators/) |
+| Reddit  | [https://www.reddit.com/r/SOLID/](https://www.reddit.com/r/SOLID/)     | [Melvin Carvalho, Arne Hassel, et al.](https://www.reddit.com/r/SOLID/about/moderators/) |
 | Vimeo   | [https://vimeo.com/solidworld/](https://vimeo.com/solidworld/)         | Kelly O'Brien  |
 | Forum   | [https://forum.solidproject.org/](https://forum.solidproject.org/)     | Justin Bingham & Oz Olivo |
 
