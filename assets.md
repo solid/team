@@ -8,20 +8,20 @@
 | X       | [https://twitter.com/project_solid](https://twitter.com/project_solid) | Kelly O'Brien  |
 | Reddit  | [https://www.reddit.com/r/SOLID/](https://www.reddit.com/r/SOLID/)     | [Melvin Carvalho, Arne Hassel, et al.](https://www.reddit.com/r/SOLID/about/moderators/) |
 | Vimeo   | [https://vimeo.com/solidworld/](https://vimeo.com/solidworld/)         | Kelly O'Brien  |
-| Forum   | [https://forum.solidproject.org/](https://forum.solidproject.org/)     | Justin Bingham & Oz Olivo |
+| Forum   | [https://forum.solidproject.org/](https://forum.solidproject.org/)     | Oz Olivo (also: Justin Bingham) |
 
 ## Domain name registrations
 
 | Domain name | Administrators |
 | ----------- | -------------- |
-| solidproject.org | Justin Bingham & Oz Olivo |
-| solidcommunity.net | Justing Bingham & Oz Olivo |
+| solidproject.org | Oz Olivo (also: Justin Bingham) |
+| solidcommunity.net | Oz Olivo (also: Justin Bingham) |
 
 ## Infrastructure
 
 | Supplier | Administrators |
 | -------- | -------------- |
-| Digital Ocean | Justin Bingham & Oz Olivo |
-| Netlify | Justin Bingham & Oz Olivo |
-| SendGrid | Justin Bingham & Oz Olivo |
+| Digital Ocean | Oz Olivo (also: Justin Bingham) |
+| Netlify | Oz Olivo (also: Justin Bingham) |
+| SendGrid | Oz Olivo (also: Justin Bingham) |
 
