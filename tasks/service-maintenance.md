@@ -2,6 +2,7 @@
 # Service Maintenance
 
 ## Responsibilities
+
 Members of the Service Maintenance task as responsible for maintaining the various technical services that support the Solid ecosystem (Listed below).
 
 - Solid Forum
@@ -12,4 +13,3 @@ Members of the Service Maintenance task as responsible for maintaining the vario
 - Sendgrid
 
 ## Task Members
- - Inrupt Maintenance Team (Lead)

@@ -30,22 +30,21 @@ Team members may be added or removed from this task by a majority vote at a Soli
 
 ### Ongoing Tasks
 
-* [Team Administration](/tasks/teamAdministration.md)
-* [Meeting Organization](/tasks/meetingOrganization.md)
-* [Code of Conduct Enforcement](/tasks/codeOfConductEnforcement.md)
-* [Service Maintenance](/tasks/serviceMaintenance.md)
-* [SolidCommunity.net Maintenance](/tasks/solidCommunityMaintenance.md)
+* [Team Administration](/tasks/team-administration.md)
+* [Meeting Organization](/tasks/meeting-organization.md)
+* [Service Maintenance](/tasks/service-maintenance.md)
+* [SolidCommunity.net Maintenance](/tasks/solid-community-maintenance.md)
 * [Fundraising](/tasks/fundraising.md)
-* [Solid World](/tasks/solidWorld.md)
-* [Solid Newsletter](/tasks/solidNewsletter.md)
-* [Fascilitate In-Person Solid Meetups](/tasks/inPersonMeetups.md)
-* [Diversity Outreach](/tasks/diversityOutreach.md)
-* [Manage Social Media](/tasks/manageSocialMedia.md)
+* [Solid World](/tasks/solid-world.md)
+* [Solid Newsletter](/tasks/solid-newsletter.md)
+* [Facilitate In-Person Solid Meetups](/tasks/in-person-meetups.md)
+* [Diversity Outreach](/tasks/diversity-outreach.md)
+* [Manage Social Media](/tasks/manage-social-media.md)
 
 ### One-off Tasks
 
-* [Converting SolidProject.org to RDF](/tasks/solidProjectRdf.md)
-* [Upgrade SolidCommunity.net to CSS](/tasks/solidCommunityCss.md)
-* [Create a Better Onboarding Experience for Developers](/tasks/developerOnboardingExperience.md)
-* [Create a Better Onboarding Experience for Users](/tasks/developerOnboardingExperience.md)
-* [SolidProject.org Content Pass](/tasks/solidProjectContentPass.md)
+* [Converting SolidProject.org to RDF](/tasks/solid-project-rdf.md)
+* [Upgrade SolidCommunity.net to CSS](/tasks/solid-community-css.md)
+* [Create a Better Onboarding Experience for Developers](/tasks/developer-onboarding-experience.md)
+* [Create a Better Onboarding Experience for Users](/tasks/user-onboarding-experience.md)
+* [SolidProject.org Content Pass](/tasks/solid-project-content-pass.md)
