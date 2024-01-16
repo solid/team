@@ -14,7 +14,7 @@ The Solid Team holds meetings at <https://meet.jit.si/solid-team> on every secon
 
 ## Membership
 
-[Membership Information](/membership.md)
+[Membership Information](/team.md)
 
 ## Code of Conduct
 
