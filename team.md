@@ -24,7 +24,6 @@ Solid Team members must attend Solid Team meetings on a semi-regular basis. They
 | Osmar Olivo       | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
 | Virginia Balseiro | | <https://virginiabalseiro.com/#me>                       |                                                    |
 | Kay Kim           | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
-| Ruben Verborgh    | [IMEC]([https://www.imec-int.com/en](https://www.imec-int.com/en))                    |                                                    |
 | Kelly O'Brien     | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
 | Alain Bourgeois   | N/A                                                                                   |                                                    |
 | Sarven Capadisli  |        | <https://csarven.ca/#i>                                                                               |                                                    |
