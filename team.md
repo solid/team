@@ -17,8 +17,7 @@ Solid Team members must attend Solid Team meetings on a semi-regular basis. They
 
 | Name              | Organization                                                                          | WebID                                              |
 | ----------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| Tim Berners-Lee   | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
-| Jackson Morgan    | [O.team](https://o.team)                                                              | <https://jackson.solidcommunity.net/profile/card#me> |
+| Tim Berners-Lee   | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |
 | Kyra Assaad       | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
 | Jeff Zucker       | N/A                                                                                   |                                                    |
 | Osmar Olivo       | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
@@ -30,7 +29,6 @@ Solid Team members must attend Solid Team meetings on a semi-regular basis. They
 | Justin Bingham    | [Janeiro Digital]([https://www.janeirodigital.com/](https://www.janeirodigital.com/)) |                                                    |
 | Kjetil Kjernsmo   |                                                                                       |                                                    |
 | Nicolas Seydoux   | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
-| Timea Turdean     | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
 | Vincent Tunru     |                                                                                       |                                                    |
 | Michiel de Jong   | [Ponder Source]([https://pondersource.com/)                                         |                                                    |
 | Hadrian Zbarcea   | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
