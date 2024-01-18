@@ -8,7 +8,7 @@ Each social media account may have one or more team members responsible for the 
 
 The team may open or close social media accounts by a majority vote at a Solid Team meeting.
 
-Members are tasked with updating and admining the various Social Media accounts, enforcing the Code of Conduct when necessary, and posting content.
+Members are tasked with updating and administering the various Social Media accounts, enforcing the Code of Conduct when necessary, and posting content.
 
 ## Accounts
 

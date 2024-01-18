@@ -2,8 +2,8 @@
 
 ## Responsibilities
 
-Members of the In Person Meetups Task are responsible providing resources to help in person Solid meetups around the world.
+Members of the In Person Meetups Task Force provide resources to help in-person Solid meetups around the world.
 
-## Task Members
+## Task Force Members
 
 This task is under the scope of the [Solid Practitioners Engagement Task Force](practitioners-engagement.md)
