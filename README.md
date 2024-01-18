@@ -24,11 +24,11 @@ The Solid Team follows the [Solid Community Code of Conduct](https://github.com/
 
 The Solid Team engages in a number of tasks. Tasks may be added or removed from the team's scope by majority vote at a Solid Team meeting. A blocked task is a tast that the team wants to do, but currently doesn't have the resources to do.
 
-### Task Membership
+### Task Force Membership
 
-Team members may be added or removed from this task by a majority vote at a Solid Team meeting. There must be a lead for this task. While other members may assist in the task, it is the responsibility of the leader to
+Team members may be added or removed from this task force by a majority vote at a Solid Team meeting. There must be a lead for this task. While other members may assist in the task, it is the responsibility of the leader to
 
-### Ongoing Tasks
+### Ongoing Task Forces
 
 * [Team Administration](/tasks/team-administration.md)
 * [Meeting Organization](/tasks/meeting-organization.md)
@@ -41,7 +41,7 @@ Team members may be added or removed from this task by a majority vote at a Soli
 * [Diversity Outreach](/tasks/diversity-outreach.md)
 * [Manage Social Media](/tasks/manage-social-media.md)
 
-### One-off Tasks
+### One-off Task Forces
 
 * [Converting SolidProject.org to RDF](/tasks/solid-project-rdf.md)
 * [Upgrade SolidCommunity.net to CSS](/tasks/solid-community-css.md)
