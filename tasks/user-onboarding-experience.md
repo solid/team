@@ -4,4 +4,4 @@
 
 The Solid Team will create tutorials to help users onboard to Solid.
 
-## Task Members
+## Task Force Members

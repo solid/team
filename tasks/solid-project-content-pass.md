@@ -2,9 +2,9 @@
 
 ## Responsibilities
 
-An assessment of SolidProject.org is performmed the team presents the findings to the Solid Team. With the team's approval, the updates are done.
+The Task Force performs an assessment of SolidProject.org and presents the findings to the Solid Team. With the team's approval, the updates are done.
 
-## Task Members
+## Task Force Members
 
 * Kay Kim
 * Kyra Assaad

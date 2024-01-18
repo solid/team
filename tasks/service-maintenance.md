@@ -3,7 +3,7 @@
 
 ## Responsibilities
 
-Members of the Service Maintenance task as responsible for maintaining the various technical services that support the Solid ecosystem (Listed below).
+Members of the Service Maintenance Task Force maintain the various technical services that support the Solid ecosystem (listed below).
 
 - Solid Forum
 - DNS for

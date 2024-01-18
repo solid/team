@@ -3,8 +3,8 @@
 
 ## Responsibilities
 
-Members of the SolidCommunity.net Maintenance task are responsible for maintaining the servers for SolidCommunity.net.
+Members of the SolidCommunity.net Maintenance Task Force maintain the servers for SolidCommunity.net.
 
-## Task Members
+## Task Force Members
 
 * Alain Bourgeois (Lead)

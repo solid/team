@@ -2,8 +2,8 @@
 
 To apply to be a Solid Team Member, make a Pull Request on this repository requesting to be added as a member. Include the following information:
 
-* Why you want to be a member
-* How you would like to contribute
+* Why do you want to be a member?
+* How would you like to contribute?
 
 Feel free to add any other information about your background and interests that might help the team decide on your membership.
 
