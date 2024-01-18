@@ -40,6 +40,7 @@ Team members may be added or removed from this task force by a majority vote at 
 * [Facilitate In-Person Solid Meetups](/tasks/in-person-meetups.md)
 * [Diversity Outreach](/tasks/diversity-outreach.md)
 * [Manage Social Media](/tasks/manage-social-media.md)
+* [Practitioners Engagement](/tasks/practitioners-engagement.md)
 
 ### One-off Task Forces
 
