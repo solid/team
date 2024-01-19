@@ -26,7 +26,7 @@ The Solid Team engages in a number of tasks. Tasks may be added or removed from 
 
 ### Task Force Membership
 
-Team members may be added or removed from this task force by a majority vote at a Solid Team meeting. There must be a lead for this task. While other members may assist in the task, it is the responsibility of the leader to
+Team members may be added or removed from a task force by a majority vote at a Solid Team meeting. There must be a lead for each task. While other members may assist in the task, it is the responsibility of the lead to report on task progress to the Solid Team, to collaborate with the Team, and to ensure that all selection processes are transparent and foster diversity.
 
 ### Ongoing Task Forces
 
