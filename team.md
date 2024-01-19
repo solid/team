@@ -33,4 +33,4 @@ Solid Team members must attend Solid Team meetings on a semi-regular basis. They
 | Michiel de Jong   | [Ponder Source](https://pondersource.com/) | |
 | Hadrian Zbarcea   | [Inrupt](https://www.inrupt.com/) | |
 | Giselle Wenban | | https://id.inrupt.com/gisellewenban |
-| Ted Thibodeau     | [OpenLink Software](https://www.openlinksw.com/) | http:/id.myopenlink.net/dataspace/person/tthibodeau#this |
+| Ted Thibodeau     | [OpenLink Software](https://www.openlinksw.com/) | http://id.myopenlink.net/dataspace/person/tthibodeau#this |
