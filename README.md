@@ -2,6 +2,8 @@
 
 The Solid Team, headed by Sir Tim Berners-Lee, provides an organisational umbrella for facilitating a strong open source community in support of Solid. This repository contains work of the Solid Team to meet the needs of the [Solid Project](https://solidproject.org/).
 
+Decisions are made based on [consensus](https://en.wikipedia.org/wiki/Consensus_decision-making).
+
 The Solid Team is a group of volunteers tasked with representing the Solid Project in an official capacity. It engages in activities that foster the spread and adoption of the Solid protocol.
 
 ## Participation
