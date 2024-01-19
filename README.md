@@ -20,7 +20,7 @@ The Solid Team holds meetings at <https://meet.jit.si/solid-team> on every secon
 
 Decisions are made based on [consensus](https://en.wikipedia.org/wiki/Consensus_decision-making).
 
-When faced with unresolved strong objections in decision-making processes based on consensus, a mechanism may be employed to reach a conclusive outcome. This involves establishing a decision rule for each particular issue, where a majority is defined with a specific threshold, and subsequently conducting a vote. This approach is loosely based on the W3C's guidelines for deciding by vote, as outlined in their document [here](https://www.w3.org/2023/Process-20231103/#decisions). A vote should only be conducted after all attempts at consensus through technical discussion and compromise have failed. It's important to note that, in this context, a Member or group of related Members is considered a single organization, aligning with the W3C's principles.
+When faced with unresolved strong objections in decision-making processes based on consensus, a mechanism may be employed to reach a conclusive outcome. This involves establishing a decision rule for each particular issue, where a majority is defined with a specific threshold, and subsequently conducting a vote. This approach is loosely based on the W3C's guidelines for deciding by vote, as [outlined in the W3C Process Document](https://www.w3.org/2023/Process-20231103/#decisions). A vote should only be conducted after all attempts at consensus through technical discussion and compromise have failed. It is important to note that, in this context, a Member or group of related Members is considered a single organization, aligning with the W3C's principles.
 
 ## Code of Conduct
 
