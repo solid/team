@@ -15,20 +15,22 @@ Solid Team members must attend Solid Team meetings on a semi-regular basis. They
 
 ## Current Members
 
-| Name              | Organization                                                                          | WebID                                              |
-| ----------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| Tim Berners-Lee   | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |
-| Kyra Assaad       | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
-| Jeff Zucker       | N/A                                                                                   |                                                    |
-| Osmar Olivo       | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
-| Virginia Balseiro | | <https://virginiabalseiro.com/#me>                       |                                                    |
-| Kay Kim           | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
-| Kelly O'Brien     | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
-| Alain Bourgeois   | N/A                                                                                   |                                                    |
-| Sarven Capadisli  |        | <https://csarven.ca/#i>                                                                               |                                                    |
-| Justin Bingham    | [Janeiro Digital]([https://www.janeirodigital.com/](https://www.janeirodigital.com/)) |                                                    |
-| Kjetil Kjernsmo   |                                                                                       |                                                    |
-| Nicolas Seydoux   | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
-| Vincent Tunru     |                                                                                       |                                                    |
-| Michiel de Jong   | [Ponder Source]([https://pondersource.com/)                                         |                                                    |
-| Hadrian Zbarcea   | [Inrupt]([https://www.inrupt.com](https://www.inrupt.com/))                           |                                                    |
+| Name |Organization | WebID |
+| --- | --- | --- |
+| Tim Berners-Lee | [Inrupt](https://www.inrupt.com/) | |
+| Kyra Assaad | [Inrupt](https://www.inrupt.com/) | |
+| Jeff Zucker | N/A | |
+| Osmar Olivo | [Inrupt](https://www.inrupt.com/)| |
+| Virginia Balseiro | | https://virginiabalseiro.com/#me|
+| Kay Kim | [Inrupt](https://www.inrupt.com/) | |
+| Kelly O'Brien | [Inrupt](https://www.inrupt.com/) | |
+| Alain Bourgeois | N/A | |
+| Sarven Capadisli | | https://csarven.ca/#i |
+| Justin Bingham | [Janeiro Digital](https://www.janeirodigital.com/) | |
+| Kjetil Kjernsmo | | |
+| Nicolas Seydoux |[Inrupt](https://www.inrupt.com/) | |
+| Vincent Tunru | | |
+| Michiel de Jong   | [Ponder Source](https://pondersource.com/) | |
+| Hadrian Zbarcea   | [Inrupt](https://www.inrupt.com/) | |
+| Giselle Wenban | [Inrupt](https://www.inrupt.com/) | https://id.inrupt.com/gisellewenban |
+| Ted Thibodeau     | [OpenLink Software](https://www.openlinksw.com/) | http://id.myopenlink.net/dataspace/person/tthibodeau#this |
