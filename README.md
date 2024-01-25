@@ -18,7 +18,7 @@ The Solid Team holds meetings at <https://meet.jit.si/solid-team> on every secon
 
 ## Decisions
 
-Strategic, tactical and policy decisions are made based on [consensus](https://en.wikipedia.org/wiki/Consensus_decision-making).
+Strategic, tactical, and policy decisions are made based on [consensus](https://en.wikipedia.org/wiki/Consensus_decision-making).
 
 Routine and operational decisions are made in the context of [Task Forces](https://github.com/solid/team/blob/main/README.md#tasks) by their members in coordination with the Task Force Lead.
 
