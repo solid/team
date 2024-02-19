@@ -41,6 +41,7 @@ Team members may be added or removed from this task force by a majority vote at 
 * [Diversity Outreach](/tasks/diversity-outreach.md)
 * [Manage Social Media](/tasks/manage-social-media.md)
 * [Practitioners Engagement](/tasks/practitioners-engagement.md)
+* [solidproject.org development and maintenance](/tasks/solidproject.org-development-maintenance)
 
 ### One-off Task Forces
 
