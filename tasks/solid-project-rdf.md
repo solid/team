@@ -9,3 +9,4 @@ Note: this change would not affect the hosting of the Solid Specification on Git
 ## Task Force Members
 
 * Jeff Zucker (Lead)
+* Denis Shirshov
