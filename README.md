@@ -22,7 +22,7 @@ Strategic, tactical, and policy decisions are made based on [consensus](https://
 
 Routine and operational decisions are made in the context of [Task Forces](https://github.com/solid/team/blob/main/README.md#tasks) by their members in coordination with the Task Force Lead.
 
-When faced with unresolved strong objections in decision-making processes based on consensus, another mechanism may be employed to reach a conclusive outcome. This involves establishing a decision rule for each particular issue, where a majority is defined to have a specific threshold, and subsequently conducting a vote. This approach is loosely based on the W3C's guidelines for deciding by vote, as [outlined in the W3C Process Document](https://www.w3.org/2023/Process-20231103/#decisions). A vote should only be conducted after all attempts at consensus through technical discussion and compromise have failed. It is important to note that, in this context, a Member or group of related Members is considered a single organization, aligning with the W3C's principles.
+When faced with unresolved strong objections in decision-making processes based on consensus, another mechanism may be employed to reach a conclusive outcome. This involves establishing a decision rule for each particular issue, where a majority is defined to have a specific threshold, and subsequently conducting a vote. This approach is loosely based on the W3C's guidelines for deciding by vote, as [outlined in the W3C Process Document](https://www.w3.org/2023/Process-20231103/#decisions). A vote should only be conducted after all attempts at consensus through technical discussion and compromise have failed.
 
 ## Code of Conduct
 
