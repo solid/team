@@ -10,7 +10,9 @@ All substantive contributors must be members of the Solid Team. It’s easy to [
 
 The Solid Team has a (member-only) [chat](https://gitter.im/solid/team).
 
-The Solid Team holds meetings at <https://meet.jit.si/solid-team> on every second Wednesday of the month at 15:00 UTC - subscribe to [vCalendar](https://raw.githubusercontent.com/solid/team/main/meetings/calendar.ics). Meetings are transcribed and [published](https://github.com/solid/team/tree/main/meetings/). Additional team meetings may be created, in which case Solid Team members will be notified via calendar invitation and in the Solid Team chat.
+The Solid Team holds meetings at <https://meet.jit.si/solid-team> on every second Wednesday of the month at 15:00 UTC — subscribe to [vCalendar](https://raw.githubusercontent.com/solid/team/main/meetings/calendar.ics). Meetings are transcribed and [published](https://github.com/solid/team/tree/main/meetings/). Additional team meetings may be created, in which case Solid Team members will be notified via calendar invitation and in the Solid Team chat.
+
+To learn more about how to contribute, check [CONTRIBUTING.md](https://github.com/solid/team/tree/main/CONTRIBUTING.md).
 
 ## Membership
 
@@ -22,11 +24,8 @@ The Solid Team follows the [Solid Community Code of Conduct](https://github.com/
 
 ## Tasks
 
-The Solid Team engages in a number of tasks. Tasks may be added or removed from the team's scope by majority vote at a Solid Team meeting. A blocked task is a tast that the team wants to do, but currently doesn't have the resources to do.
-
-### Task Force Membership
-
-Team members may be added or removed from this task force by a majority vote at a Solid Team meeting. There must be a lead for this task. While other members may assist in the task, it is the responsibility of the leader to
+The Solid Team engages in a number of tasks. A blocked task is a task that the team
+wants to do, but doesn't currently have sufficient resources to handle.
 
 ### Ongoing Task Forces
 
@@ -50,3 +49,12 @@ Team members may be added or removed from this task force by a majority vote at 
 * [Create a Better Onboarding Experience for Developers](/tasks/developer-onboarding-experience.md)
 * [Create a Better Onboarding Experience for Users](/tasks/user-onboarding-experience.md)
 * [SolidProject.org Content Pass](/tasks/solid-project-content-pass.md)
+
+## Collaborations
+
+The team collaborates with a lot of other Solid groups, including the following:
+
+* [Solid Community Group](https://www.w3.org/groups/cg/solid/)
+* Solid Work Groups
+* [Solid Creators](https://github.com/solid/process/blob/main/creators.md)
+* [Code of Conduct Committee](https://github.com/solid/process/blob/main/code-of-conduct.md)
