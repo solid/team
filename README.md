@@ -52,9 +52,9 @@ wants to do, but doesn't currently have sufficient resources to handle.
 
 ## Collaborations
 
-The team collaborates with a lot of other Solid groups, such as:
+The team collaborates with a lot of other Solid groups, including the following:
 
 * [Solid Community Group](https://www.w3.org/groups/cg/solid/)
-* Solid Work Group
+* Solid Work Groups
 * [Solid Creators](https://github.com/solid/process/blob/main/creators.md)
 * [Code of Conduct Committee](https://github.com/solid/process/blob/main/code-of-conduct.md)
