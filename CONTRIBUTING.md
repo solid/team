@@ -26,7 +26,11 @@ themselves. Members are required to adhere to [teams' decisions](#decisions).
 ### Tasks
 
 The Solid Team engages in a number of [tasks](tasks). Tasks may be added or removed from the team's scope by majority
-vote at a Solid Team meeting. ### Task Force Membership Team members may be added or removed from this task force by a
+vote at a Solid Team meeting. 
+
+### Task Force Membership 
+
+Team members may be added or removed from this task force by a
 majority vote at a Solid Team meeting. There must be a lead for this task. While other members may assist in the task,
 it is the responsibility of the leader to follow up on the task and report updates to the team.
 
