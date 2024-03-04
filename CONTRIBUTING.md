@@ -149,7 +149,7 @@ repository, create a PR.
   can make any other changes in your fork, then commit them to your branch.
 * As you update your PR and apply changes, mark each conversation as
   [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
-* If you run into any merge issues, checkout this [git
+* If you run into any merge issues, review this [git
   tutorial](https://lab.github.com/githubtraining/managing-merge-conflicts) to
   help you resolve merge conflicts and other issues.
 * You can attribute a commit to more than one author by adding one or more
