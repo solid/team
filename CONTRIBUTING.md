@@ -36,7 +36,7 @@ it is the responsibility of the leader to follow up on the task and report updat
 
 ### Meetings
 
-The Solid Team holds meetings at <https://meet.jit.si/solid-team> on every second Wednesday of the month at 15:00 UTC -
+The Solid Team holds meetings at <https://meet.jit.si/solid-team> on every second Wednesday of the month at 15:00 UTC —
 subscribe to [vCalendar](https://raw.githubusercontent.com/solid/team/main/meetings/calendar.ics). Meetings are
 transcribed and [published](meetings). Additional team meetings may be created, in which case Solid Team members will be
 notified via calendar invitation and in the Solid Team chat.
