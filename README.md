@@ -48,3 +48,12 @@ The Solid Team engages in a number of tasks. A blocked task is a task that the t
 * [Create a Better Onboarding Experience for Developers](/tasks/developer-onboarding-experience.md)
 * [Create a Better Onboarding Experience for Users](/tasks/user-onboarding-experience.md)
 * [SolidProject.org Content Pass](/tasks/solid-project-content-pass.md)
+
+## Collaborations
+
+The team collaborates with a lot of other Solid groups, such as:
+
+* [Solid Community Group](https://www.w3.org/groups/cg/solid/)
+* Solid Work Group
+* [Solid Creators](https://github.com/solid/process/blob/main/creators.md)
+* [Code of Conduct Committee](https://github.com/solid/process/blob/main/code-of-conduct.md)
