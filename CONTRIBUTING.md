@@ -60,7 +60,7 @@ The team's decision process is inspired by
 the [chapter on decisions in W3C Process Document](https://www.w3.org/Consortium/Process/#decisions).
 
 The team attempts to resolve issues through dialog. Individuals who disagree strongly with a decision should register
-with the leader any formal objections.
+any formal objections with the leader.
 
 Any substantive issues that can't be resolved through reaching consensus through technical discussions and compromise
 must go through a vote, and the results must be public. Decisions may be made during [meetings](./meetings)
