@@ -162,4 +162,4 @@ repository, create a PR.
 
 ### Your PR is merged!
 
-Congratulations :tada: The Solid Team and the community thanks you :sparkles: 
+Congratulations :tada: The Solid Team and the community thank you :sparkles: 
