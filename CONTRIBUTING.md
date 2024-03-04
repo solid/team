@@ -1,6 +1,6 @@
 # Solid Team Contributing Guide
 
-[The Solid Team](team.md) is headed by Sir Tim Berners-Lee and provides an organisational umbrella for facilitating a
+[The Solid Team](team.md) is headed by Sir Tim Berners-Lee and provides an organisational umbrella to facilitate a
 strong open source community in support of Solid. This repository contains work of the Solid Team to meet the needs of
 the [Solid Project](https://solidproject.org/).
 
