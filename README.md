@@ -24,7 +24,8 @@ The Solid Team follows the [Solid Community Code of Conduct](https://github.com/
 
 ## Tasks
 
-The Solid Team engages in a number of tasks. A blocked task is a task that the team wants to do, but currently doesn't have the resources to do.
+The Solid Team engages in a number of tasks. A blocked task is a task that the team
+wants to do, but doesn't currently have sufficient resources to handle.
 
 ### Ongoing Task Forces
 
