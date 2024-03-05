@@ -6,7 +6,7 @@ The Solid Team is a group of volunteers tasked with representing the Solid Proje
 
 ## Participation
 
-All substantive contributors must be members of the Solid Team. It’s easy to [join the Solid Team](https://github.com/solid/process) if you’d like to contribute with any role.
+All substantive contributors must be members of the Solid Team. It’s easy to [join the Solid Team](https://github.com/solid/team/blob/main/team.md) if you’d like to contribute with any role.
 
 The Solid Team has a (member-only) [chat](https://gitter.im/solid/team).
 
