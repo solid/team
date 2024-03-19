@@ -8,6 +8,6 @@ The list of Solid applications is made publicly accessible on the [solidproject.
 
 Curation and maintenance of the list of Solid applications is based on the [inclusion and exclusion criteria](https://solidproject.org/apps#app-inclusion-and-exclusion-criteria). The task force is also responsible for processing proposed changes to the criteria.
 
-Submissions of new apps should also be made publicly, through mechanics such as Pull Requests to solidproject.org. 
+Requesting an update to the list of applications is recorded through a GitHub Pull Request on the [solid/solidproject.org](https://github.com/solid/solidproject.org/pulls) repository.
 
 ## Task Force Members
