@@ -1,4 +1,4 @@
-# Aggregation of Solid-interoperable apps
+# Manage list of Solid apps
 
 ## Responsibilities
 
