@@ -6,6 +6,4 @@ Members of the solidproject.org website development and maintenance task force a
 
 ## Task force members
 
-* Virginia Balseiro (co-lead)
-* Sarven Capadisli (co-lead)
 * Arne Hassel
