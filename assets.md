@@ -1,7 +1,22 @@
-# Assets and how we manage them
+# Assets and management
+
+Status: Draft. Names and information is outdated.
+
+## Email accounts
+
+|Email                                                          |Access    |Notes|
+|:-|:-:|:-|
+|[`info@solidproject.org`](mailto:info@solidproject.org)        |Team      |General inquiries|
+|[`press@solidproject.org`](mailto:press@solidproject.org)      |Team      |Some overlap with `info@`|
+|[`admin@solidproject.org`](mailto:admin@solidproject.org)      |Admin-only|Admin-specific|
+|[`netlify@solidproject.org`](mailto:netlify@solidproject.org)  |Admin-only|Admin-specific|
+|[`feedback@solidproject.org`](mailto:feedback@solidproject.org)|Team      |Some overlap with `info@`|
+|[`contact@solidproject.org`](mailto:contact@solidproject.org)  |Team      |Some overlap with `info@`|
+|[`manager@solidproject.org`](mailto:manager@solidproject.org)  |Team      |Some overlap with `info@`|
 
 ## Social Media
 
+FIXME: Partly duplicate of https://github.com/solid/team/blob/main/tasks/manage-social-media.md
 
 | Account  | Link                                                                   | Administrators |
 | ------- | ---------------------------------------------------------------------- | -------------- |
