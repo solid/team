@@ -6,7 +6,7 @@ The Solid Team is a group of volunteers tasked with representing the Solid Proje
 
 ## Participation
 
-All substantive contributors must be members of the Solid Team. It’s easy to [join the Solid Team](https://github.com/solid/process) if you’d like to contribute with any role.
+All substantive contributors must be members of the Solid Team. It’s easy to [join the Solid Team](https://github.com/solid/team/blob/main/team.md) if you’d like to contribute with any role.
 
 The Solid Team has a (member-only) [chat](https://gitter.im/solid/team).
 
@@ -26,7 +26,7 @@ The Solid Team engages in a number of tasks. Tasks may be added or removed from 
 
 ### Task Force Membership
 
-Team members may be added or removed from this task force by a majority vote at a Solid Team meeting. There must be a lead for this task. While other members may assist in the task, it is the responsibility of the leader to
+Team members may be added or removed from a Task Force by a majority vote at a Solid Team meeting. There must be a lead for each Task Force. While other members may assist in the task, it is the responsibility of the lead to report on task progress to the Solid Team, to collaborate with the Team, and to ensure that all selection processes are transparent and foster diversity.
 
 ### Ongoing Task Forces
 
